@@ -9,9 +9,9 @@ I’m Maria-Eleni (Marlena) Panagiotakou
 🌱 I’m currently learning ...
 
 ⚙️ I use ...
---->
-📫 You can find me at: marlena@panagiotakos.net 
 
+📫 You can find me at: marlena@panagiotakos.net 
+--->
 <!---
 MarlenaPanagiotakou/MarlenaPanagiotakou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
